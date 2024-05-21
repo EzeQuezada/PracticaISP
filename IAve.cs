@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace PracticaISP
 {
-    public  interface Interface1
+    public  interface IAve
     {
+        void volar();
+        void Cantar();
+        void PonerHuevoos();
 
     }
 }
